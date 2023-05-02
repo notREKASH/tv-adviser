@@ -1,0 +1,13 @@
+body {
+  background: #000;
+  color: white;
+}
+
+::-webkit-scrollbar {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb:horizontal {
+  background-color: white;
+  border-radius: 10px;
+}

@@ -1,0 +1,19 @@
+.title {
+  font-size: 18px;
+  text-decoration: underline;
+  padding-bottom: 10px;
+}
+
+.list {
+  display: flex;
+  overflow-x: hidden;
+  padding-bottom: 30px;
+}
+
+.list:hover {
+  overflow-x: overlay;
+}
+
+.list_item {
+  margin-right: 20px;
+}
